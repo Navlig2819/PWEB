@@ -2,7 +2,6 @@
 
 * Mykaele
 * Luiz gustavo
-* Ananda
 * Gilvan
 # Síte
 [Clique aqui](https://navlig2819.github.io/PWEB/)
